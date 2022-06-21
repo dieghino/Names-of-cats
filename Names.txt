@@ -1,9 +1,15 @@
+---------------------------------------------------
 Names of my cats 
 
 Macchia 
 Romeo
 Blues
 
+---------------------------------------------------
+Status of my cats
+Macchia -> deceased
+Romeo -> unknown status
+Blues -> alive and well (at least until 10 minutes ago. I don't know. Cats, am i right?)
 
-
+---------------------------------------------------
 Important note: none of my passwords contains the name of one of my cats (I think)
